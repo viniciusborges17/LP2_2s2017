@@ -1,0 +1,11 @@
+-> Cadastrar aluno; ok
+-> Cadastrar professor; ok
+-> Cadastrar disciplinas; ok
+-> Disciplina Ofertada; ok
+-> Cadastrar turma; ok
+-> Cadastrar Cruso; ok
+-> Cadastrar Grade curricular; ok
+-> Cadastrar Periodo; ok
+-> Cadastrar PeriodoDisciplina ok
+-> Cadastrar Turma ok
+-> Cadastrar Matricula ok
